@@ -13,7 +13,6 @@ public class Test123 {
     a.setAge(10);
      System.out.print(a.getAge()+","+b.getAge());
      System.out.print("hhh");
-     
       
 	}
 
